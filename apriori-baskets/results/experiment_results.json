@@ -1,0 +1,51 @@
+[
+  {
+    "threshold": 0.01,
+    "threshold_percent": 1.0,
+    "time_sec": 2.755760233325418,
+    "total_frequent": 261,
+    "lengths": {
+      "1": 74,
+      "2": 170,
+      "3": 17
+    }
+  },
+  {
+    "threshold": 0.03,
+    "threshold_percent": 3.0,
+    "time_sec": 0.5151591999844337,
+    "total_frequent": 55,
+    "lengths": {
+      "1": 36,
+      "2": 19
+    }
+  },
+  {
+    "threshold": 0.05,
+    "threshold_percent": 5.0,
+    "time_sec": 0.19448980000258112,
+    "total_frequent": 28,
+    "lengths": {
+      "1": 25,
+      "2": 3
+    }
+  },
+  {
+    "threshold": 0.1,
+    "threshold_percent": 10.0,
+    "time_sec": 0.02566159999696538,
+    "total_frequent": 7,
+    "lengths": {
+      "1": 7
+    }
+  },
+  {
+    "threshold": 0.15,
+    "threshold_percent": 15.0,
+    "time_sec": 0.01921219997651254,
+    "total_frequent": 5,
+    "lengths": {
+      "1": 5
+    }
+  }
+]
