@@ -1,0 +1,44 @@
+[
+  {
+    "min_confidence": 0.2,
+    "min_confidence_percent": 20.0,
+    "time_sec": 2.3600894999690354,
+    "rules_count": 163
+  },
+  {
+    "min_confidence": 0.25,
+    "min_confidence_percent": 25.0,
+    "time_sec": 2.953209400002379,
+    "rules_count": 99
+  },
+  {
+    "min_confidence": 0.3,
+    "min_confidence_percent": 30.0,
+    "time_sec": 3.474477600015234,
+    "rules_count": 65
+  },
+  {
+    "min_confidence": 0.35,
+    "min_confidence_percent": 35.0,
+    "time_sec": 4.037918800022453,
+    "rules_count": 34
+  },
+  {
+    "min_confidence": 0.4,
+    "min_confidence_percent": 40.0,
+    "time_sec": 3.4140781000023708,
+    "rules_count": 19
+  },
+  {
+    "min_confidence": 0.45,
+    "min_confidence_percent": 45.0,
+    "time_sec": 3.422601600002963,
+    "rules_count": 6
+  },
+  {
+    "min_confidence": 0.5,
+    "min_confidence_percent": 50.0,
+    "time_sec": 3.753056999994442,
+    "rules_count": 2
+  }
+]
